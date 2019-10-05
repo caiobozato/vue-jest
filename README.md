@@ -1,5 +1,7 @@
 # vue-jest
 
+[![Build Status](https://travis-ci.org/caiobozato/vue-jest.svg?branch=master)](https://travis-ci.org/caiobozato/vue-jest)
+
 ## Project setup
 ```
 npm install
