@@ -27,5 +27,5 @@ describe('ButtonCount.vue', () => {
         expect(button.trigger('click'));
 
         expect(wrapper.vm.count).toBe(1);
-    })
-})
+    });
+});
